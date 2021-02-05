@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minha Sorte</string>
+    <string name="em_que_ano_voc_nasceu">Em que ano você nasceu?</string>
+    <string name="_2021">2021</string>
+    <string name="sua_aposta_de_hoje_essa">Sua aposta de hoje é essa:</string>
+    <string name="selecione_o_jogo">Selecione o Jogo</string>
+    <string name="mega_sena">Mega Sena</string>
+    <string name="quina">Quina</string>
+</resources>
